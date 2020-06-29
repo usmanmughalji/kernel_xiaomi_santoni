@@ -14,7 +14,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  */
-
+#pragma GCC diagnostic ignored "-Wunused-variable"
 #include <linux/wakeup_reason.h>
 #include <linux/kernel.h>
 #include <linux/irq.h>
